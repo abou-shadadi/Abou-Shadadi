@@ -1,6 +1,6 @@
 <br>
 
-<h2> Hey there! I'm Abou-Shadadi.</h2>
+<h2> Hi there! I'm Abou-Shadadi.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
