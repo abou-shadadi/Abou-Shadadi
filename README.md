@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Information Technoloy at University of Rwanda.
-- 💼 &nbsp; Working as Full Stack Developer at Mape Business Solution LTD.
+- 💼 &nbsp; Working as Full Stack Developer in kigali.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
