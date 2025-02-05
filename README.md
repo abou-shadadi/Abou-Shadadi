@@ -1,11 +1,11 @@
 <br>
 
-<h2> Hi there! I'm Abou-Shadadi.</h2>
+<h2>Hi there! I'm Abou-Shadadi.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3>👨🏻‍💻 &nbsp; About Me</h3>
 
-- 🎓 &nbsp; Studying Information Technoloy at University of Rwanda.
-- 💼 &nbsp; Working as Full Stack Developer in kigali.
+- 🎓 &nbsp; I hold a Bachelor's degree in Information Technology from the University of Rwanda.  
+- 💼 &nbsp; Currently working as a Full Stack Developer in Kigali.  
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
